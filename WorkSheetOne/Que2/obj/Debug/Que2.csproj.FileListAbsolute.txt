@@ -1,0 +1,7 @@
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que2\bin\Debug\Que2.exe.config
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que2\bin\Debug\Que2.exe
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que2\bin\Debug\Que2.pdb
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que2\obj\Debug\Que2.csprojAssemblyReference.cache
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que2\obj\Debug\Que2.csproj.CoreCompileInputs.cache
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que2\obj\Debug\Que2.exe
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que2\obj\Debug\Que2.pdb

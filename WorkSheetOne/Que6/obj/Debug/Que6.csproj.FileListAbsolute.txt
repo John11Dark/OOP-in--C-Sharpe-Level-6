@@ -1,0 +1,7 @@
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que6\bin\Debug\Que6.exe.config
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que6\bin\Debug\Que6.exe
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que6\bin\Debug\Que6.pdb
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que6\obj\Debug\Que6.csprojAssemblyReference.cache
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que6\obj\Debug\Que6.csproj.CoreCompileInputs.cache
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que6\obj\Debug\Que6.exe
+C:\Users\diane\Documents\MCAST\20-21\OOP\Repositories\OOP-ClassWork\WorkSheetOne\Que6\obj\Debug\Que6.pdb
