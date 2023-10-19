@@ -1,26 +1,31 @@
-﻿<Properties StartupConfiguration="{8F6654F8-34EC-4C6A-B14A-AACD33764AE1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Que1/Circle.cs">
+﻿<Properties StartupConfiguration="{B2B965DF-74B1-4FBC-8B58-D30B7D91E98B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="workSheetOne/Rectangle.cs">
     <Files>
-      <File FileName="Que1/Circle.cs" Line="56" Column="27" />
-      <File FileName="Que1/Program.cs" Line="56" Column="34" />
+      <File FileName="workSheetOne/Program.cs" Line="11" Column="1" />
+      <File FileName="workSheetOne/Circle.cs" Line="1" Column="1" />
+      <File FileName="workSheetOne/Rectangle’.cs" Line="13" Column="1" />
+      <File FileName="workSheetOne/Student.cs" Line="1" Column="1" />
+      <File FileName="workSheetOne/Person.cs" Line="1" Column="1" />
+      <File FileName="workSheetOne/RandomNumbers.cs" Line="1" Column="1" />
+      <File FileName="workSheetOne/Shapes.cs" Line="4" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WorkSheetOne" expanded="True">
-            <Node name="Que1" expanded="True">
-              <Node name="Circle.cs" selected="True" />
+          <Node name="workSheetOne" expanded="True">
+            <Node name="workSheetOne">
+              <Node name="Rectangle.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Que1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.workSheetOne FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

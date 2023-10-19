@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8F6654F8-34EC-4C6A-B14A-AACD33764AE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Que1/Circle.cs">
+    <Files>
+      <File FileName="Que1/Circle.cs" Line="56" Column="27" />
+      <File FileName="Que1/Program.cs" Line="56" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkSheetOne" expanded="True">
+            <Node name="Que1" expanded="True">
+              <Node name="Circle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Que1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
